@@ -119,6 +119,7 @@ a {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     align-items: center;
+    padding-top: 30px;
     .card {
       padding: 20px;
       width: 200px;
@@ -399,6 +400,8 @@ a {
     gap: 30px;
     margin-left: 306px;
     margin-top: 30px;
+    padding-top: 30px;
+
     .card {
       text-align: center;
       padding: 30px;
