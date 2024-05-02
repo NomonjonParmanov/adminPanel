@@ -6,7 +6,7 @@ const Sidebar = () => {
     <div className="container ">
       <div className="sidebar">
         <div className="logo">
-          <NavLink to={"/admin"}>
+          <NavLink to={"/admin/dashboard"}>
             <img src={logo} alt="" />
           </NavLink>
         </div>
